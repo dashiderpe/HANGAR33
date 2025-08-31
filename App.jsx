@@ -1,1 +1,0 @@
-export default function App(){return <h1>🎤 Karaoke QR Queue Prototype</h1>}
